@@ -1,4 +1,4 @@
-# Green-Destination-Attrition
+# Green Destination Employee Attrition 
 
 Green Destination is a travel agency Company. In this project I did data analysis of employee attrition using Tableau.
 
